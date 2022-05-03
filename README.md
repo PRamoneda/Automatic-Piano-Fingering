@@ -1,6 +1,6 @@
 # Automatic piano fingering from partially annotated scores using autoregressive neural networks
 
-Link to the paper will be here (currently, the papers is under peer review).
+Link to the paper will be here (currently, the paper is under peer review).
 
 ## Abstract
 
@@ -14,11 +14,12 @@ Piano fingering is a creative and highly individualised task acquired by musicia
 
 - `loader.py`: creates the different representations.
 
-
 - Directory `results` contains the results.
 
 
 - Directory `data` contains the processed data.
+
+- Directory `nns` contains the pytorch models.
 
 - Directories `PianoFingeringDataset_v1.02` and `ThumbSet_v1.01` should be filled by both "upon request" automatic piano fingering datasets available at: (https://beam.kisarazu.ac.jp/~saito/research/PianoFingeringDataset/) and (https://zenodo.org/record/6433702#.YnFFYvNBxhE).
 
