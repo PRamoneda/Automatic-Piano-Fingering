@@ -1,0 +1,395 @@
+device: cuda:0
+dataset noisy_random_seq2seq!!
+batchsize 64
+2793
+learning_rate
+max_epochs
+patience
+learning rate = 5e-05
+usual loss!
+Start model training (noisy seq2seq version)
+validation
+Validation (General match rate): rh:47.42% lh:50.97%
+Test (General match rate): rh:44.74% lh:50.67%
+Epoch 1 best model saved with accuracy: 49.20%
+validation
+Validation (General match rate): rh:52.76% lh:54.98%
+Test (General match rate): rh:50.20% lh:54.14%
+Epoch 2 best model saved with accuracy: 53.87%
+validation
+Validation (General match rate): rh:55.46% lh:55.66%
+Test (General match rate): rh:52.81% lh:55.67%
+Epoch 3 best model saved with accuracy: 55.56%
+validation
+Validation (General match rate): rh:58.08% lh:58.39%
+Test (General match rate): rh:52.70% lh:53.17%
+Epoch 4 best model saved with accuracy: 58.23%
+validation
+Validation (General match rate): rh:59.42% lh:58.37%
+Test (General match rate): rh:54.59% lh:54.26%
+Epoch:   5. Loss: 0.7437. Acc.: 58.90%
+Epoch 5 best model saved with accuracy: 58.90%
+validation
+Validation (General match rate): rh:59.76% lh:59.71%
+Test (General match rate): rh:57.30% lh:56.96%
+Epoch 6 best model saved with accuracy: 59.73%
+validation
+Validation (General match rate): rh:60.16% lh:59.25%
+Test (General match rate): rh:57.47% lh:56.39%
+validation
+Validation (General match rate): rh:61.31% lh:59.39%
+Test (General match rate): rh:58.16% lh:54.80%
+Epoch 8 best model saved with accuracy: 60.35%
+validation
+Validation (General match rate): rh:61.29% lh:59.56%
+Test (General match rate): rh:59.32% lh:57.89%
+Epoch 9 best model saved with accuracy: 60.42%
+validation
+Validation (General match rate): rh:61.04% lh:59.71%
+Test (General match rate): rh:57.12% lh:58.56%
+Epoch:  10. Loss: 0.6487. Acc.: 60.38%
+validation
+Validation (General match rate): rh:62.41% lh:61.13%
+Test (General match rate): rh:58.84% lh:59.37%
+Epoch 11 best model saved with accuracy: 61.77%
+validation
+Validation (General match rate): rh:62.23% lh:60.97%
+Test (General match rate): rh:58.67% lh:59.43%
+validation
+Validation (General match rate): rh:62.55% lh:61.06%
+Test (General match rate): rh:56.43% lh:59.47%
+Epoch 13 best model saved with accuracy: 61.80%
+validation
+Validation (General match rate): rh:63.20% lh:60.85%
+Test (General match rate): rh:59.26% lh:60.47%
+Epoch 14 best model saved with accuracy: 62.02%
+validation
+Validation (General match rate): rh:63.06% lh:61.43%
+Test (General match rate): rh:57.11% lh:59.17%
+Epoch:  15. Loss: 0.6035. Acc.: 62.25%
+Epoch 15 best model saved with accuracy: 62.25%
+validation
+Validation (General match rate): rh:63.32% lh:61.10%
+Test (General match rate): rh:58.53% lh:59.79%
+validation
+Validation (General match rate): rh:63.48% lh:61.39%
+Test (General match rate): rh:56.65% lh:59.17%
+Epoch 17 best model saved with accuracy: 62.43%
+validation
+Validation (General match rate): rh:63.37% lh:61.94%
+Test (General match rate): rh:59.03% lh:59.62%
+Epoch 18 best model saved with accuracy: 62.65%
+validation
+Validation (General match rate): rh:63.68% lh:61.94%
+Test (General match rate): rh:57.71% lh:59.80%
+Epoch 19 best model saved with accuracy: 62.81%
+validation
+Validation (General match rate): rh:64.26% lh:61.94%
+Test (General match rate): rh:58.92% lh:58.40%
+Epoch:  20. Loss: 0.5741. Acc.: 63.10%
+Epoch 20 best model saved with accuracy: 63.10%
+validation
+Validation (General match rate): rh:64.05% lh:62.41%
+Test (General match rate): rh:58.20% lh:58.85%
+Epoch 21 best model saved with accuracy: 63.23%
+validation
+Validation (General match rate): rh:63.51% lh:62.34%
+Test (General match rate): rh:60.52% lh:59.91%
+validation
+Validation (General match rate): rh:63.38% lh:61.61%
+Test (General match rate): rh:57.39% lh:60.00%
+validation
+Validation (General match rate): rh:63.38% lh:61.54%
+Test (General match rate): rh:58.45% lh:60.74%
+validation
+Validation (General match rate): rh:63.34% lh:61.97%
+Test (General match rate): rh:58.33% lh:60.99%
+Epoch:  25. Loss: 0.5544. Acc.: 62.65%
+validation
+Validation (General match rate): rh:63.54% lh:61.69%
+Test (General match rate): rh:59.28% lh:60.78%
+validation
+Validation (General match rate): rh:63.26% lh:62.05%
+Test (General match rate): rh:60.31% lh:60.46%
+validation
+Validation (General match rate): rh:62.96% lh:62.05%
+Test (General match rate): rh:58.59% lh:59.81%
+validation
+Validation (General match rate): rh:63.31% lh:62.65%
+Test (General match rate): rh:58.40% lh:60.97%
+validation
+Validation (General match rate): rh:63.48% lh:62.23%
+Test (General match rate): rh:60.34% lh:61.53%
+Epoch:  30. Loss: 0.5386. Acc.: 62.86%
+validation
+Validation (General match rate): rh:63.50% lh:62.47%
+Test (General match rate): rh:59.48% lh:60.15%
+validation
+Validation (General match rate): rh:62.90% lh:62.72%
+Test (General match rate): rh:58.33% lh:60.97%
+validation
+Validation (General match rate): rh:63.20% lh:61.99%
+Test (General match rate): rh:61.25% lh:58.25%
+validation
+Validation (General match rate): rh:63.15% lh:62.61%
+Test (General match rate): rh:58.90% lh:60.99%
+validation
+Validation (General match rate): rh:63.31% lh:62.70%
+Test (General match rate): rh:59.54% lh:60.70%
+Epoch:  35. Loss: 0.5259. Acc.: 63.01%
+validation
+Validation (General match rate): rh:63.32% lh:62.87%
+Test (General match rate): rh:58.98% lh:60.47%
+validation
+Validation (General match rate): rh:63.40% lh:62.15%
+Test (General match rate): rh:59.78% lh:59.42%
+validation
+Validation (General match rate): rh:63.35% lh:62.25%
+Test (General match rate): rh:61.08% lh:60.01%
+validation
+Validation (General match rate): rh:62.95% lh:61.29%
+Test (General match rate): rh:60.21% lh:59.91%
+validation
+Validation (General match rate): rh:63.33% lh:62.18%
+Test (General match rate): rh:60.30% lh:61.32%
+Epoch:  40. Loss: 0.5159. Acc.: 62.75%
+validation
+Validation (General match rate): rh:63.13% lh:61.71%
+Test (General match rate): rh:60.40% lh:60.31%
+validation
+Validation (General match rate): rh:63.70% lh:61.65%
+Test (General match rate): rh:58.66% lh:59.72%
+validation
+Validation (General match rate): rh:63.19% lh:62.03%
+Test (General match rate): rh:59.73% lh:60.02%
+validation
+Validation (General match rate): rh:62.87% lh:62.14%
+Test (General match rate): rh:60.31% lh:60.44%
+validation
+Validation (General match rate): rh:63.56% lh:61.86%
+Test (General match rate): rh:59.55% lh:60.95%
+Epoch:  45. Loss: 0.5065. Acc.: 62.71%
+validation
+Validation (General match rate): rh:62.57% lh:62.22%
+Test (General match rate): rh:59.89% lh:61.29%
+validation
+Validation (General match rate): rh:63.17% lh:62.08%
+Test (General match rate): rh:59.41% lh:61.35%
+validation
+Validation (General match rate): rh:63.05% lh:62.24%
+Test (General match rate): rh:58.37% lh:60.76%
+validation
+Validation (General match rate): rh:63.48% lh:61.45%
+Test (General match rate): rh:58.33% lh:62.25%
+validation
+Validation (General match rate): rh:63.57% lh:62.13%
+Test (General match rate): rh:60.42% lh:62.79%
+Epoch:  50. Loss: 0.4988. Acc.: 62.85%
+validation
+Validation (General match rate): rh:63.59% lh:62.37%
+Test (General match rate): rh:59.28% lh:61.46%
+validation
+Validation (General match rate): rh:63.39% lh:61.76%
+Test (General match rate): rh:57.75% lh:61.08%
+validation
+Validation (General match rate): rh:63.91% lh:62.74%
+Test (General match rate): rh:60.40% lh:61.73%
+Epoch 53 best model saved with accuracy: 63.32%
+validation
+Validation (General match rate): rh:63.51% lh:61.91%
+Test (General match rate): rh:60.15% lh:62.24%
+validation
+Validation (General match rate): rh:63.53% lh:61.06%
+Test (General match rate): rh:59.55% lh:59.92%
+Epoch:  55. Loss: 0.4925. Acc.: 62.30%
+validation
+Validation (General match rate): rh:63.54% lh:62.38%
+Test (General match rate): rh:59.30% lh:61.71%
+validation
+Validation (General match rate): rh:63.39% lh:61.87%
+Test (General match rate): rh:58.72% lh:61.53%
+validation
+Validation (General match rate): rh:63.67% lh:62.26%
+Test (General match rate): rh:59.48% lh:59.73%
+validation
+Validation (General match rate): rh:63.74% lh:62.81%
+Test (General match rate): rh:60.20% lh:62.04%
+validation
+Validation (General match rate): rh:63.11% lh:61.36%
+Test (General match rate): rh:59.06% lh:61.14%
+Epoch:  60. Loss: 0.4863. Acc.: 62.23%
+validation
+Validation (General match rate): rh:63.39% lh:62.99%
+Test (General match rate): rh:59.72% lh:60.88%
+validation
+Validation (General match rate): rh:63.72% lh:61.97%
+Test (General match rate): rh:59.47% lh:60.40%
+validation
+Validation (General match rate): rh:63.62% lh:62.79%
+Test (General match rate): rh:58.62% lh:62.30%
+validation
+Validation (General match rate): rh:63.62% lh:61.43%
+Test (General match rate): rh:60.01% lh:60.89%
+validation
+Validation (General match rate): rh:63.87% lh:62.86%
+Test (General match rate): rh:59.77% lh:61.37%
+Epoch:  65. Loss: 0.4808. Acc.: 63.36%
+Epoch 65 best model saved with accuracy: 63.36%
+validation
+Validation (General match rate): rh:64.12% lh:62.69%
+Test (General match rate): rh:59.60% lh:61.49%
+Epoch 66 best model saved with accuracy: 63.40%
+validation
+Validation (General match rate): rh:63.68% lh:62.64%
+Test (General match rate): rh:59.20% lh:60.19%
+validation
+Validation (General match rate): rh:63.52% lh:61.80%
+Test (General match rate): rh:60.26% lh:61.10%
+validation
+Validation (General match rate): rh:63.49% lh:62.09%
+Test (General match rate): rh:59.88% lh:60.68%
+validation
+Validation (General match rate): rh:63.38% lh:61.84%
+Test (General match rate): rh:58.88% lh:61.14%
+Epoch:  70. Loss: 0.4752. Acc.: 62.61%
+validation
+Validation (General match rate): rh:63.60% lh:62.32%
+Test (General match rate): rh:59.10% lh:61.48%
+validation
+Validation (General match rate): rh:63.48% lh:61.48%
+Test (General match rate): rh:58.68% lh:60.38%
+validation
+Validation (General match rate): rh:63.74% lh:62.84%
+Test (General match rate): rh:59.76% lh:62.31%
+validation
+Validation (General match rate): rh:63.61% lh:63.26%
+Test (General match rate): rh:59.52% lh:60.68%
+Epoch 74 best model saved with accuracy: 63.44%
+validation
+Validation (General match rate): rh:63.17% lh:62.89%
+Test (General match rate): rh:60.16% lh:60.71%
+Epoch:  75. Loss: 0.4710. Acc.: 63.03%
+validation
+Validation (General match rate): rh:63.22% lh:62.97%
+Test (General match rate): rh:59.79% lh:62.41%
+validation
+Validation (General match rate): rh:63.91% lh:63.02%
+Test (General match rate): rh:59.76% lh:61.31%
+Epoch 77 best model saved with accuracy: 63.47%
+validation
+Validation (General match rate): rh:63.55% lh:62.70%
+Test (General match rate): rh:61.42% lh:60.82%
+validation
+Validation (General match rate): rh:63.42% lh:62.80%
+Test (General match rate): rh:60.37% lh:61.73%
+validation
+Validation (General match rate): rh:63.99% lh:62.25%
+Test (General match rate): rh:58.74% lh:60.68%
+Epoch:  80. Loss: 0.4664. Acc.: 63.12%
+validation
+Validation (General match rate): rh:63.27% lh:62.08%
+Test (General match rate): rh:60.31% lh:61.37%
+validation
+Validation (General match rate): rh:63.27% lh:62.07%
+Test (General match rate): rh:60.09% lh:61.61%
+validation
+Validation (General match rate): rh:63.74% lh:62.13%
+Test (General match rate): rh:59.82% lh:62.26%
+validation
+Validation (General match rate): rh:63.54% lh:63.09%
+Test (General match rate): rh:59.97% lh:61.95%
+validation
+Validation (General match rate): rh:64.02% lh:62.21%
+Test (General match rate): rh:59.75% lh:61.05%
+Epoch:  85. Loss: 0.4629. Acc.: 63.11%
+validation
+Validation (General match rate): rh:63.65% lh:62.98%
+Test (General match rate): rh:59.63% lh:61.91%
+validation
+Validation (General match rate): rh:63.72% lh:62.42%
+Test (General match rate): rh:59.64% lh:61.91%
+validation
+Validation (General match rate): rh:63.83% lh:62.74%
+Test (General match rate): rh:59.90% lh:64.19%
+validation
+Validation (General match rate): rh:63.05% lh:61.86%
+Test (General match rate): rh:58.71% lh:64.11%
+validation
+Validation (General match rate): rh:63.57% lh:62.39%
+Test (General match rate): rh:59.16% lh:62.13%
+Epoch:  90. Loss: 0.4592. Acc.: 62.98%
+validation
+Validation (General match rate): rh:63.96% lh:62.31%
+Test (General match rate): rh:60.30% lh:62.44%
+validation
+Validation (General match rate): rh:64.05% lh:62.19%
+Test (General match rate): rh:58.74% lh:64.34%
+validation
+Validation (General match rate): rh:64.11% lh:62.52%
+Test (General match rate): rh:58.19% lh:60.59%
+validation
+Validation (General match rate): rh:63.84% lh:62.96%
+Test (General match rate): rh:59.87% lh:63.41%
+validation
+Validation (General match rate): rh:63.49% lh:61.71%
+Test (General match rate): rh:60.15% lh:61.91%
+Epoch:  95. Loss: 0.4557. Acc.: 62.60%
+validation
+Validation (General match rate): rh:63.62% lh:62.57%
+Test (General match rate): rh:58.49% lh:61.17%
+validation
+Validation (General match rate): rh:63.92% lh:61.07%
+Test (General match rate): rh:59.41% lh:62.57%
+validation
+Validation (General match rate): rh:63.75% lh:61.93%
+Test (General match rate): rh:59.70% lh:62.22%
+validation
+Validation (General match rate): rh:63.30% lh:61.74%
+Test (General match rate): rh:59.60% lh:62.07%
+validation
+Validation (General match rate): rh:63.19% lh:61.63%
+Test (General match rate): rh:57.50% lh:63.50%
+Epoch: 100. Loss: 0.4533. Acc.: 62.41%
+validation
+Validation (General match rate): rh:63.69% lh:62.52%
+Test (General match rate): rh:60.86% lh:62.03%
+validation
+Validation (General match rate): rh:63.32% lh:62.56%
+Test (General match rate): rh:59.40% lh:62.43%
+validation
+Validation (General match rate): rh:63.94% lh:62.92%
+Test (General match rate): rh:58.10% lh:62.53%
+validation
+Validation (General match rate): rh:63.10% lh:62.46%
+Test (General match rate): rh:59.09% lh:62.39%
+validation
+Validation (General match rate): rh:64.19% lh:62.61%
+Test (General match rate): rh:57.91% lh:63.18%
+Epoch: 105. Loss: 0.4493. Acc.: 63.40%
+validation
+Validation (General match rate): rh:63.81% lh:61.80%
+Test (General match rate): rh:59.10% lh:63.21%
+validation
+Validation (General match rate): rh:63.34% lh:62.02%
+Test (General match rate): rh:58.24% lh:62.55%
+Early stopping on epoch 107
+Validation (General match rate):: 63.47%
+subset = test_rh
+244101
+seq2seq(
+  (embedding): emb_pitch(
+    (emb): Embedding(127, 64)
+  )
+  (encoder): gnn_encoder(
+    (gnn1): GatedGraph()
+    (gnn2): GatedGraph()
+    (gnn3): GatedGraph()
+  )
+  (decoder): AR_decoder(
+    (ar_lstm): LSTM(128, 64, batch_first=True)
+    (FC): Linear(in_features=64, out_features=5, bias=True)
+    (class_embedding): Embedding(5, 64)
+  )
+)
+subset = test_lh
+Test (General match rate): rh:59.76% lh:61.31%

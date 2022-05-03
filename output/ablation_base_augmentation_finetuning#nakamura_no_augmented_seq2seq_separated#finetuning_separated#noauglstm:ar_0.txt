@@ -1,0 +1,11 @@
+device: cpu
+path_model is models/best_ablation_base_augmentation#no_augmented_noisy_random_seq2seq#seq2seq_noisy#lstm:ar.pth
+freeze_type 0
+only
+dataset merged!!
+learning_rate
+max_epochs
+patience
+learning rate = 5e-05
+usual loss!
+Start model finetuning seq2seq rh

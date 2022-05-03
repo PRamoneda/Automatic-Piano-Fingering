@@ -1,0 +1,10 @@
+device: cpu
+dataset no augmented noisy_random_seq2seq!!
+batchsize 64
+1
+learning_rate
+max_epochs
+patience
+learning rate = 5e-05
+softening labels!
+Start model training (noisy seq2seq version)

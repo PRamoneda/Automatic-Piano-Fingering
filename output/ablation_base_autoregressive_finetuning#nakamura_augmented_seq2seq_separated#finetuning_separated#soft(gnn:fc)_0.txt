@@ -1,0 +1,4 @@
+device: cpu
+path_model is models/best_ablation_base_autoregressive#augmented_noisy_random_seq2seq#seq2seq_noisy#soft(gnn:fc).pth
+freeze_type 0
+only
